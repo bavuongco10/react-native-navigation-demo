@@ -1,4 +1,4 @@
-package com.rnnavtivenavigationdemo;
+package com.hauser;
 
 import android.app.Application;
 

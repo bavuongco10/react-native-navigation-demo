@@ -12,6 +12,9 @@ const tabs = [{
   screen: 'example.Types',
   icon: require('../img/list.png'),
   title: 'Navigation Types',
+	navigatorStyle: {
+		navBarHidden: true
+  },
 }, {
   label: 'Actions',
   screen: 'example.Actions',

@@ -1,4 +1,4 @@
-package com.rnnavtivenavigationdemo;
+package com.hauser;
 
 import com.facebook.react.ReactActivity;
 import com.reactnativenavigation.controllers.SplashActivity;
